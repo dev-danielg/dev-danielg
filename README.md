@@ -7,7 +7,7 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em Python e Backend
 ## Atualmente estudando
 - Python
 - REST APIs
-- Flask
+- FastAPI
 - Banco de Dados Relacional
 - Data Analytics
 - AI/ML
