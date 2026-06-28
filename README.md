@@ -20,3 +20,6 @@ Estou construindo o canal **crazy.py**, onde compartilho minha jornada de aprend
 
 ## Objetivo
 Aprender em público, construir projetos reais e evoluir gradualmente de Backend para Análise de Dados e Inteligência Artificial.
+
+## Contato
+Discord: **crazy_not**
