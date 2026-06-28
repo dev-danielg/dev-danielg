@@ -1,6 +1,7 @@
 # Daniel Gonçalves
 
-Developer in Training
+Desenvolvedor Python em formação
+♾️ Autismo e TDAH
 
 Estudante de Análise e Desenvolvimento de Sistemas com foco em Python e Backend.
 
@@ -9,8 +10,9 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em Python e Backend
 - REST APIs
 - FastAPI
 - Banco de Dados Relacional
-- Data Analytics
-- AI/ML
+- Análise de Dados
+- Aprendizado de Máquina
+- Inteligência Artificial
 
 ## Canal no YouTube
 Estou construindo o canal **crazy.py**, onde compartilho minha jornada de aprendizado em Python, Backend e desenvolvimento de software através de projetos guiados e conteúdo para iniciantes.
