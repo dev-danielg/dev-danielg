@@ -1,6 +1,7 @@
 # Daniel Gonçalves
 
 Desenvolvedor Python em formação
+
 ♾️ Autismo e TDAH
 
 Estudante de Análise e Desenvolvimento de Sistemas com foco em Python e Backend.
